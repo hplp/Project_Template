@@ -1,4 +1,4 @@
-# AI_Hardware_Project_Template
+# Project_Template
 
 ## Team Name: 
 (Enter your team name from Canvas)
@@ -25,5 +25,8 @@
 ## Expected Outcomes:
 (Describe what you expect to deliver at the end of the project)
 
+## Tasks:
+(Describe the tasks that need to be completed. Assign students to tasks)
+
 ## Timeline:
-(Provide a rough timeline or milestones for the project)
+(Provide a timeline or milestones for the project)
